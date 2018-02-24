@@ -51,3 +51,8 @@ npm run cpp-addon
 description(项目背景介绍)
 ------------------
 [official website(官方文档)](http://www.zhuyingda.com/docs/veneno.html)
+
+# PS：体检结果总结：
+-- 1. Node 能够启动，附带一个标本页面
+-- 2.XSS扫描结果不理想
+-- 3. C++扩展没体验
